@@ -22,6 +22,6 @@ Volume 411, Issue 20,
 
     `./make_SAHA-Tool.sh`
 
-    To run SAHA-Tool use the command
+    To run *SAHA-Tool* use the command
 
     `./bin/sahaTool`
