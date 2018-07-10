@@ -2,11 +2,15 @@
 
 *SAHA-Tool* is a software implemented in Objective Caml. It allows one to compute approximated solutions to the reachability problem in Semi-Algebraic Hybrid Automata, exploiting the *miM-ra* method.
 
-*SAHA-Tool* is released under the terms of GNU GENERAL PUBLIC LICENSE Version 3.
+*SAHA-Tool* is released under the terms of the GNU GENERAL PUBLIC LICENSE Version 3.0.
 
 ## miM-ra method
 
-The *miM-ra* method has been described in: "D. CAMPAGNA, C. PIAZZA. Hybrid Automata in Systems Biology: How Far Can We Go?. In: Int. Workshop From Biology to Concurrency and back (FBTC'08), volume 229 of Electronic Notes in Theoretical Computer Science, pages 93-108. Elsevier, 2009".
+The *miM-ra* method has been described in "[Dario Campagna, Carla Piazza.
+Hybrid automata, reachability, and Systems Biology.
+Theoretical Computer Science,
+Volume 411, Issue 20,
+2010](https://www.sciencedirect.com/science/article/pii/S0304397509008512)".
 
 ## Making SAHA-Tool
 
