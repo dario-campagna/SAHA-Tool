@@ -2,7 +2,7 @@
 
 *SAHA-Tool* is a software implemented in Objective Caml. It allows one to compute approximated solutions to the reachability problem in Semi-Algebraic Hybrid Automata, exploiting the *miM-ra* method.
 
-SAHA-Tool is released under the terms of GNU GENERAL PUBLIC LICENSE Version 3.
+*SAHA-Tool* is released under the terms of GNU GENERAL PUBLIC LICENSE Version 3.
 
 ## miM-ra method
 
